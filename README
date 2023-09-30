@@ -1,0 +1,9 @@
+Troubleshooting
+
+If you are having issues with external keyboards in Parallels:
+  Disable Windows 11 dynamic tick
+  Download Danskee's Memory Cleaner (https://www.majorgeeks.com/files/details/memory_cleaner_danskee.html)
+    Enable ALL startup settings in the app (File -> Settings)
+  Disable the Parallels Coherence Service (keep Tools enabled to continue using an external keyboard)
+  Change the VM profile in Parallels to "Games only", and enable "Isolate Windows from Mac" in Security
+  Attempt to debloat Windows 11 (do not use the AME toolbox, it has undefined behaviour with these tweaks)
