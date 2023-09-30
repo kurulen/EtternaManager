@@ -28,6 +28,7 @@ If you are having issues with external keyboards in Parallels:
     Enable "Isolate Windows from Mac" in Security
   Attempt to debloat Windows 11
     Do not use the AME toolbox, it has undefined behaviour with these tweaks
+  Attempt to use Ahk2Exe to compile the .ahk file
   Download and install bbZero, replacing Explorer
     https://web.archive.org/web/20190204020123/https://spoonm.org/share/bbzero/bbZero_install_1.18.0-rc6_mojmir.rar
     The .rar file is safe, and is archived from its registration-walled site on BlackBox4Windows
